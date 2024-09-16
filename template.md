@@ -1,0 +1,31 @@
+# $DATE$
+---
+
+$QUOTE$
+
+# QUESTS
+## ESSENTIAL QUESTS
+$ESSENTIAL$
+---
+
+## PHYSICAL QUESTS
+$PHYSICAL$
+---
+
+## SPIRITUAL QUESTS
+$SPIRITUAL$
+---
+
+## INTELLECTUAL QUESTS
+$INTELLECTUAL$
+---
+
+## WILDCARD QUESTS
+$WILDCARD$
+---
+
+# STATUS
+### LEVEL: $LEVEL$
+- Current XP: $XP_CURRENT$
+- XP needed for next Level: $NEXT LEVEL$
+
